@@ -3,7 +3,7 @@ package competition.matchs;
 import competition.Competitor;
 
 /**
- * @author LE GUENNEC YAAKOUB
+ 
  * @author Ghelani Akram
  * @version 1.0
  */

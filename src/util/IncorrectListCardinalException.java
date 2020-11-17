@@ -1,7 +1,7 @@
 package util;
 
 /**
- * @author LE GUENNEC YAAKOUB
+ 
  * @author Ghelani Akram
  * @version 1.0
  */

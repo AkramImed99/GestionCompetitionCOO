@@ -1,6 +1,6 @@
 package competition;
 /**
- * @author LE GUENNEC YAAKOUB
+ 
  * @author Ghelani Akram
  * @version 2.0
  */

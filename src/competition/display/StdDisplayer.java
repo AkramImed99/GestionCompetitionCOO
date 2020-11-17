@@ -1,6 +1,6 @@
 package competition.display;
 /**
- * @author LE GUENNEC YAAKOUB
+ 
  * @author Ghelani Akram
  * @version 1.0.1
  */
